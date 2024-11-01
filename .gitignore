@@ -25,3 +25,4 @@ dist-ssr
 
 nginx_cp
 nginx
+docker-compose.yml
